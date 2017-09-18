@@ -1,0 +1,25 @@
+{
+  "name": "frontspaceg",
+  "version": "1.0.0",
+  "description": "The first group project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myhong1990/groupApp.git"
+  },
+  "author": "My Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myhong1990/groupApp/issues"
+  },
+  "homepage": "https://github.com/myhong1990/groupApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11",
+    "pug": "^2.0.0-rc.4"
+  }
+}
